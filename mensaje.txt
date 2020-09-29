@@ -1,0 +1,4 @@
+Practicando con Git, Github
+Hola mundo ha temblado
+git status -> Archivos editados
+git diff -> Diferencias
